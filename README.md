@@ -1,2 +1,41 @@
 # EconGrowthUG-Fall-2022-GROUP-NAME-TOPIC
 Final Project
+## Economic Gap Between North Korea and South Korea
+
+by Sam Cox
+
+# The Question
+
+How have North Korea and South Korea's development differed over the years with respect to GDP and are there any years that seem unusual or illogical. The obvious difference between North and South Korea is the way in which their governments are structured. North Korea operates under a dictatorship while South Korea operates under a democracy and these differences in leadership seem to garner major differences in annual GDP. What are some specific differences in the institutions of North and South Korea that cause the economic growth that we see in the nation's statistics of the past decade?
+
+# The Answer
+
+The first step in answering the question is to view the data of GDP in both countries and analyze the discrepancies to find what may cause these differences. Just a quick example of the gap between these countries GDP's is the statistics of 2021. According to Statista.com the GDP of North Korea was approximately 35.89 trillion South Korean Won and the GDP of South Korea was approximately 2,071 trillion South Korean Won. This is an astronomical difference given the fact that these two countries share similarities in geography, natural resources and climate. For a country to have a GDP almost 60 times that of its neighbor there must be extraordinary differences present in certain aspects other than those which they have in common. In the case of North and South Korea these differences are in culture and institutions. It is almost common knowledge that the culture of North Korea is more restrictive than that of South Korea and that this has negative implications on North Korea's economic success. Along with their restrictive cultural features, North Korea's dictatorship seems to have a negative impact on the quantity of exports and the diversity in their exports. It is also interesting to see that China is the major destination for North and South Korea's exports. North Korea has a vast majority of their exports going to China (almost always 90-95% of exports) whereas China accounts for much less of South Korea's exports (fluctuating from year to year but generally 20-50% of exports). This is another interesting point to look into further when discussing the differences between these neighboring countries.
+
+# Plan
+
+To present the contrasting aspects of North and South Korea I think it would be best to present in the form of a research paper supported with the necessary graphs and statistics. In the upcoming weeks before the deadline I will do the proper research in order to familiarize myself with the specificities of both countries' culture and institutions. I will start with further analysis of the GDP's of both countries including specific outputs whether it is products or natural resources. This will be easier to do for North Korea as they have a less diverse range of export locations and exports. South Korea will be a little more difficult to gather and analyze information for because of the plethora of countries which they export too and their wide range of exports. Finding reliable data and relative charts and graphs will be difficult but I will verify across websites in order to gather the most accurate information. Cultural differences are very obvious at first glance but South Korean culture has a far greater number of similarities to the United States than it does to North Korean culture. Given the unfamiliarity I have with North Korea and their more specific societal attributes I would have to find out as much as I can about that subject as well. I will also delve much deeper into government relations between the leaders of South Korea and North Korea and the countries with whom they trade. Drawing a DAG will come into play when analyzing the political paths of both countries and the resulting economic discrepancies that occur in the following years.
+
+# The Data
+
+I will be using data from Statista.com in order to better answer the question of why the gap is so large between North and South Korea's GDPs. This includes a graph comparing the two GDPs and data on the individual countries' imports, exports, and overall GDP. Finding reliable data was fairly straight forward and after looking at multiple sources the statistics presented on Statista.com seem to be the most trustworthy.
+
+![Screen Shot 2022-11-13 at 7.03.30 PM.png](attachment:9d2991b3-ad6f-486c-873f-cacc9c287028.png)
+
+In the above graph the stark differences between the economies are made very obvious. As I mentioned in the planning section of the outline, the year 2021 saw a difference of roughly 2,035.77 trillion South Korean Won or about $1,545,620,000.00 between North Korea and South Korea's GDP. This number doesn't seem big with the United States GDP as reference but as compared to North Korea's GDP of 35.89 trillion Won this is a staggering difference. In the case of these countries, North Korea's oppressive dictatorship plays a huge role in limiting the possbilities of their economy. South Korea not only trades with a wider variety of countries than North Korea but it also produces a wider range of products.
+
+![Screen Shot 2022-11-13 at 10.52.53 PM.png](attachment:f3a5a7ed-6849-40e9-9722-40ccc07a83aa.png)
+
+In this bar graph we see the exports that are going from South Korea to North Korea. This highlights another factor in South Korea's superior economy, which is the money coming in from their neighboring country. An interesting detail of this bar graph is the severe drop in exports which occurs in 2016 and not 2019 as would be expected with Corona Virus. This may be a result of North Korea relying more on Chinese exports than South Korean exports as China makes up almost 90% of North Korea's imports. This wouldn't be an overly shocking assumption to make given the limited contact North Korea has with exterior nations.
+
+![Screen Shot 2022-11-13 at 11.30.06 PM.png](attachment:98ea5003-30fa-41d6-a716-e597dc8396bb.png)
+
+Although not robust in information, the above table indicates another cause for North Korea's inferior economy. What pops out from these numbers is the heavy control on spending the government has, the large sum of money going to the military and the grip China has on North Korea's economy. China has clearly capitalized on selling to a country that, to the majority of the world, isn't an overly appealing trade partner. It's almost ironic that the top two numbers in the table are directly related to the bottom number of the table. As military and government spending increase, along with missile testing and various public relation issues, North Korea's trade options become more and more limited to China.
+
+# Works Cited
+
+Yoon, L. "Comparison of the nominal gross domestic product (GDP) between South Korea and North Korea from 2010 to 2021." Statista, August 23, 2022, https://www.statista.com/statistics/1035390/south-korea-gdp-comparison-with-north-korea/
+
+Yoon, L. "Value of goods exported from South Korea to North Korea between 2005 and 2020." Statista, July, 6 2021, https://www.statista.com/statistics/654750/south-korea-export-value-to-north-korea/
+
+O'Neill, Aaron. "North Korea - Statistics & Facts." Statista, June 16, 2022, https://www.statista.com/topics/4927/north-korea/#topicHeader__wrapper
